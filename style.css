@@ -3,12 +3,12 @@
    Cambiarle qui le cambia su TUTTE le pagine
    ============================================= */
 :root {
-  --colore-sfondo:     #ffffff;
-  --colore-testo:      #1a1a1a;
+  --colore-sfondo:     #C0C0C0;
+  --colore-testo:      #060606;
   --colore-testo-muto: #666666;
-  --colore-accento:    #2563eb;   /* cambia questo colore con il tuo preferito */
+  --colore-accento:    #2563eb;  
   --colore-bordo:      #e5e5e5;
-  --colore-card:       #f8f8f8;
+  --colore-card:       #7c7c7c;
 
   --font-titoli: 'IBM Plex Mono', monospace;
   --font-testo:  'IBM Plex Sans', sans-serif;
